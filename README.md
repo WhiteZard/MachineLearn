@@ -1,0 +1,3 @@
+# MachineLearn
+Personal Machine Learning code
+会不定时的放一些东西过来，一方面是要学习GitHub的一些操作，另一方面我对这方面的兴趣也通过这些东西被点燃了，看看在下一次加柴之前这股火焰能燃烧多久吧
